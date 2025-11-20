@@ -147,7 +147,7 @@ Then start contributing or using the project your way.
 
 ---
 
-📫 Contact
+📫 Contact information 
 
 Project: FindTuffy
 
