@@ -117,7 +117,8 @@ FindTuffy/
 
 📝 Backend architecture preparation 
 
-🕸️ Scraper scripts will be added soon 
+🕸️ Scraper scripts will be added soon
+
 ---
 
 🤝 Contributing
@@ -138,6 +139,9 @@ We welcome all contributions to improve FindTuffy.
 If you want to customize or improve this project, simply fork it:
 
 👉 Click here to fork: Fork > Create a new fork
+```
+git clone https://github.com/kRamu81/FindTuffy.git
+```
 Then start contributing or using the project your way.
 
 
